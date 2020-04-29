@@ -35,4 +35,9 @@ public class CustomerManager {
 		return this.customerMap;
 	}
 
+	public Customer getCustomer(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
